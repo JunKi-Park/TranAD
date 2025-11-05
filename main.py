@@ -18,6 +18,7 @@ from pprint import pprint
 
 # 진짜로 바뀌는지 Test용 주석
 print("hello world!")
+print("Git commit change tset")
 
 
 def convert_to_windows(data, model):
